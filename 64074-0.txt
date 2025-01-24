@@ -1,4 +1,4 @@
-﻿The Project Gutenberg eBook of G. F. Watts, by G. K. Chesterton
+﻿The Project Gutenberg EBook of G. F. Watts, by G. K. Chesterton
 
 This eBook is for the use of anyone anywhere in the United States and
 most other parts of the world at no cost and with almost no restrictions
@@ -6,13 +6,13 @@ whatsoever. You may copy it, give it away or re-use it under the terms
 of the Project Gutenberg License included with this eBook or online at
 www.gutenberg.org. If you are not located in the United States, you
 will have to check the laws of the country where you are located before
-using this eBook.
+using this ebook.
 
 Title: G. F. Watts
 
 Author: G. K. Chesterton
 
-Release Date: December 22, 2020 [eBook #64074]
+Release Date: December 18, 2020 [EBook #64074]
 
 Language: English
 
@@ -2192,7 +2192,7 @@ performed, viewed, copied or distributed:
   under the terms of the Project Gutenberg License included with this
   eBook or online at www.gutenberg.org. If you are not located in the
   United States, you will have to check the laws of the country where
-  you are located before using this eBook.
+  you are located before using this ebook.
 
 1.E.2. If an individual Project Gutenberg-tm electronic work is
 derived from texts not protected by U.S. copyright law (does not
@@ -2362,9 +2362,9 @@ and permanent future for Project Gutenberg-tm and future
 generations. To learn more about the Project Gutenberg Literary
 Archive Foundation and how your efforts and donations can help, see
 Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org
+www.gutenberg.org 
 
-Section 3. Information about the Project Gutenberg Literary
+Section 3. Information about the Project Gutenberg Literary 
 Archive Foundation
 
 The Project Gutenberg Literary Archive Foundation is a non profit
@@ -2444,3 +2444,4 @@ This Web site includes information about Project Gutenberg-tm,
 including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
 subscribe to our email newsletter to hear about new eBooks.
+
